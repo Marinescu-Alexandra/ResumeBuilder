@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "name": "resumebuilderbackend",
+  "version": "1.0.0",
+  "description": "Backend for resume builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "resume",
+    "builder",
+    "latex",
+    "backend",
+    "api"
+  ],
+  "author": "Marinescu Alexandra",
+  "license": "ISC",
+  "type": "module"
+}

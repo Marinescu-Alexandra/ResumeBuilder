@@ -1,0 +1,106 @@
+{
+    "fullName": "Sebastian Popescu",
+    "jobTitle": "Full Stack Developer",
+    "email": "sebastian.popescu@techmail.com",
+    "phone": "+40789345678",
+    "location": "Cluj-Napoca, Romania",
+    "skills": [
+        "Python and Django",
+        "React and Redux",
+        "TypeScript",
+        "Docker and Kubernetes",
+        "AWS and Cloud Services"
+    ],
+    "socialMedia": {
+        "linkedin": {
+            "username": "sebastian-popescu",
+            "url": "https://www.linkedin.com/in/sebastian-popescu/"
+        },
+        "github": {
+            "username": "sebastian-popescu",
+            "url": "https://www.github.com/sebastian-popescu/"
+        },
+        "twitter": null,
+        "personalWebsite": {
+            "name": "Portfolio",
+            "url": "https://sebastian-popescu.github.io/"
+        }
+    },
+    "aboutMe": "Passionate about coding and technology, with a strong focus on creating efficient and scalable web applications.",
+    "experience": [
+        {
+            "company": "Innovative Tech Solutions",
+            "position": "Senior Full Stack Developer",
+            "startDate": "2019-01-01",
+            "endDate": "2022-01-01",
+            "description": [
+                "Developed and maintained web applications using Python, Django, React, and Redux.",
+                "Led a team of developers in agile development practices.",
+                "Optimized applications for maximum speed and scalability."
+            ],
+            "location": "Cluj-Napoca, Romania"
+        },
+        {
+            "company": "Creative Web Designs",
+            "position": "Full Stack Developer",
+            "startDate": "2017-01-01",
+            "endDate": "2018-12-31",
+            "description": [
+                "Implemented responsive web design with HTML5, CSS3, and JavaScript.",
+                "Worked on cross-platform applications using React Native.",
+                "Collaborated closely with design teams to create user-friendly interfaces."
+            ],
+            "location": "Cluj-Napoca, Romania"
+        }
+    ],
+    "learning": [
+        "GraphQL",
+        "Machine Learning",
+        "Advanced CSS Techniques"
+    ],
+    "languages": [
+        {
+            "name": "Romanian",
+            "level": "Native"
+        },
+        {
+            "name": "English",
+            "level": "Fluent"
+        }
+    ],
+    "education": [
+        {
+            "title": "Bachelor's in Computer Science",
+            "institution": "Technical University of Cluj-Napoca",
+            "startDate": "2013-09-01",
+            "endDate": "2017-06-30",
+            "location": "Cluj-Napoca, Romania",
+            "description": [
+                "Specialized in web technologies and software engineering.",
+                "Completed a thesis project on 'Building Scalable Web Applications'.",
+                "Graduated with honors."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "E-commerce",
+            "github": "https://github.com/sebastian-popescu/ecommerce-app",
+            "website": "https://ecommerce-app.com",
+            "description": [
+                "Developed a full-featured e-commerce website using React, Redux, and Django.",
+                "Implemented secure user authentication and payment processing.",
+                "Optimized for mobile and desktop platforms."
+            ]
+        },
+        {
+            "title": "Chat Application",
+            "github": "https://github.com/sebastian-popescu/chat-app",
+            "description": [
+                "Built a real-time chat application using Node.js, Socket.io, and React.",
+                "Focused on efficient data transmission and low-latency communication.",
+                "Deployed on AWS with scalability in mind."
+            ]
+        }
+    ]
+}
