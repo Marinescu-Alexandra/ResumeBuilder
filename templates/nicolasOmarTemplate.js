@@ -3,7 +3,6 @@ import { TemplateTokens } from "./templateTokens.js";
 
 class NicolasOmarTemplate extends BaseTemplate {
     fillTemplate(template, data) {
-        console.log("Filling NicolasOmar template");
         template = this.fillTokens(template, data);
         return template;
     }

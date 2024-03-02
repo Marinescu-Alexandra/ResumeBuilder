@@ -3,7 +3,7 @@
     "jobTitle": "Full Stack Developer",
     "email": "sebastian.popescu@techmail.com",
     "phone": "+40789345678",
-    "location": "Cluj-Napoca, Romania",
+    "location": "Bucuresti, Romania",
     "skills": [
         "Python and Django",
         "React and Redux",
@@ -91,7 +91,8 @@
                 "Developed a full-featured e-commerce website using React, Redux, and Django.",
                 "Implemented secure user authentication and payment processing.",
                 "Optimized for mobile and desktop platforms."
-            ]
+            ],
+            "type": "Fullstack"
         },
         {
             "title": "Chat Application",
@@ -100,7 +101,8 @@
                 "Built a real-time chat application using Node.js, Socket.io, and React.",
                 "Focused on efficient data transmission and low-latency communication.",
                 "Deployed on AWS with scalability in mind."
-            ]
+            ],
+            "type": "Fullstack"
         }
     ]
 }

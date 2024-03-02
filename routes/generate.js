@@ -19,11 +19,14 @@ generateRouter.get("/getThemes", async (req, res, next) => {
 });
 
 generateRouter.get("/:theme", async (req, res, next) => {
-    const theme = req.params.theme;
-    console.log(theme);
-    const data = await resumeBuilder(theme, req.body);
-    res.contentType('application/pdf');
-    res.send(data);
+    try {
+        const theme = req.params.theme;
+        const data = await resumeBuilder(theme, req.body);
+        res.contentType('application/pdf');
+        res.send(data);
+    } catch (error) {
+        next(error)
+    }
 });
 
 export { generateRouter }
